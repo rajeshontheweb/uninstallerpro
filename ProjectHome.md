@@ -1,0 +1,1 @@
+A convenient alternative to windows standard uninstaller though it might not be a complete replacement, it aims to be a easy to use, quick to load, searchable uninstaller utility.
